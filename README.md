@@ -1,1 +1,1 @@
-# publicimgserver
+# publicassetsserver
